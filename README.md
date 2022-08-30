@@ -1,2 +1,1 @@
-# beachball-monorepo-example
-Beachball Monorepo Example
+# Beachball Monorepo Example
